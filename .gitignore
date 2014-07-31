@@ -1,0 +1,17 @@
+# Craft runtime and backups folders
+# ----------------------------------------------------------------------
+craft/storage/runtime/*
+craft/storage/backups/*
+craft/storage/app/*
+
+ 
+# Uploaded files
+# ----------------------------------------------------------------------
+content/*
+resources/*
+originals/*
+ 
+# Misc files
+# ----------------------------------------------------------------------
+.DS_Store
+Thumbs.db
